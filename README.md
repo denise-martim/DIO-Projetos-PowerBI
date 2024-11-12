@@ -50,3 +50,9 @@ Atualizações no projeto de Sales Report com Foco na Experiência do Usuário.
 - Página Sales Report com visuais de Total de Vendas, Unidades Vendidas, Soma discounts e Soma COGS, Vendas por Período, Sales x Segment, Vendas x Produto, soma de vendas por país.
 - Detalhes de Vendas apresenta visuais de vendas x semestre, tabela valores totais por trimestre/ano, histograma de unidades vendidas, valores vendidos x produtos.
 - TOPN & Clusters & Outlier com visuais de clusterização, outlier, TOP3 Produtos, TOP3 produto por país e TOP3 profit por mês.
+
+## Projeto 8 
+
+- Seguindo o que foi feito no projeto 7 e com o intuito de criação de relatórios dinâmicos com o uso de parâmetros no Power BI, foi adicionada uma nova página contendo duas visões:
+  - parâmetro com base em categorias
+  - parâmetros com base em valores
